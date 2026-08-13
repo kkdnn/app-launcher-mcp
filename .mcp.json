@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "app-launcher-mcp": {
+      "command": "node",
+      "args": ["C:\\Users\\12579\\Desktop\\mcp图片封装\\app-launcher\\src\\index.js"]
+    }
+  }
+}
