@@ -1,0 +1,21 @@
+{
+  "name": "app-launcher-mcp",
+  "version": "1.0.0",
+  "description": "应用启动器 MCP：按名称/路径启动 Windows 任意软件（支持 Halcon 等），供 AI 助手调用",
+  "type": "module",
+  "main": "src/index.js",
+  "bin": {
+    "app-launcher-mcp": "src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node test/smoke.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.30.0"
+  }
+}
