@@ -1,0 +1,58 @@
+{
+  "halcon": {
+    "name": "HDevelop (Halcon 机器视觉)",
+    "path": "C:\\Program Files\\MVTec\\HALCON-18.11-Progress\\bin\\x64-win64\\hdevelop.exe",
+    "aliases": ["hdevelop", "halcon软件"]
+  },
+  "halconxl": {
+    "name": "HDevelop XL",
+    "path": "C:\\Program Files\\MVTec\\HALCON-18.11-Progress\\bin\\x64-win64\\hdevelopxl.exe"
+  },
+  "edge": {
+    "name": "Microsoft Edge 浏览器",
+    "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "aliases": ["浏览器"]
+  },
+  "notepad": {
+    "name": "记事本",
+    "path": "notepad",
+    "aliases": ["记事本"]
+  },
+  "calc": {
+    "name": "计算器",
+    "path": "calc",
+    "aliases": ["计算器"]
+  },
+  "mspaint": {
+    "name": "画图",
+    "path": "mspaint",
+    "aliases": ["画图"]
+  },
+  "explorer": {
+    "name": "文件资源管理器（用户主目录）",
+    "type": "folder",
+    "path": "C:\\Users\\12579",
+    "aliases": ["文件管理器", "资源管理器"]
+  },
+  "cmd": {
+    "name": "命令行 CMD",
+    "type": "cmd",
+    "path": "C:\\Windows\\System32\\cmd.exe",
+    "aliases": ["命令行", "终端"]
+  },
+  "ccswitch": {
+    "name": "CC Switch（Claude Code 配置切换）",
+    "path": "C:\\Users\\12579\\AppData\\Local\\Programs\\CC Switch\\cc-switch.exe",
+    "aliases": ["cc-switch", "ccswitch"]
+  },
+  "codex": {
+    "name": "OpenAI Codex",
+    "path": "C:\\Users\\12579\\AppData\\Local\\OpenAI\\Codex\\bin\\8e8bf206e63ac436\\codex.exe",
+    "aliases": ["codex-cli"]
+  },
+  "xanylabeling": {
+    "name": "X-AnyLabeling 标注工具",
+    "path": "C:\\Users\\12579\\Desktop\\mcp图片封装\\app-launcher\\start-xanylabeling.bat",
+    "aliases": ["anylabeling", "标注", "标注软件"]
+  }
+}
